@@ -16,17 +16,24 @@ html {
 
 
 body {
-    min-height: 100%;
     background-color: var(--lightGray);
-    display: flex;
-    align-items: center;
-    justify-content: center;
+}
+
+body {
+    min-height: 100%;
 }
 
 * {
  box-sizing: border-box;
  padding: 0;
  margin: 0;
+}
+
+main {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .card {
@@ -43,7 +50,7 @@ body {
 }
 
 .card__img {
-    height: 320px;
+    height: 300px;
     width: 100%;
 }
 
