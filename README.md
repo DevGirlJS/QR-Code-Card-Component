@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/DevGirlJS/QR-Code-Component)
-- Live Site URL: [Github pages](https://devgirljs.github.io/QR-Code-Component/)
+- Live Site URL: [Github pages](https://devgirljs.github.io/QR-Code-Card-Component/)
 
 ## My process
 
